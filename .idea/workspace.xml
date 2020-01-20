@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf2222ab-76e0-49fb-840a-bd2f24bf71f9" name="Default Changelist" comment="" />
+    <list default="true" id="cf2222ab-76e0-49fb-840a-bd2f24bf71f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seckill.iml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +41,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -264,8 +270,8 @@
       <item itemvalue="JUnit.SeckillServiceTest.exportSeckillUrl" />
       <item itemvalue="JUnit.SeckillServiceTest.testExportSeckillLogic" />
       <item itemvalue="JUnit.SeckillServiceTest.executeSeckillProcedure" />
-      <item itemvalue="Tomcat Server.Tomcat 8.5.49" />
       <item itemvalue="JUnit.RedisDaoTest.testSeckill" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.49" />
     </list>
     <recent_temporary>
       <list>
@@ -314,10 +320,22 @@
       <workItem from="1579432135917" duration="5327000" />
       <workItem from="1579506376340" duration="3428000" />
       <workItem from="1579511114568" duration="2237000" />
+      <workItem from="1579516068460" duration="194000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
