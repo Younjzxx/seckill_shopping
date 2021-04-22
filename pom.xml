@@ -72,7 +72,7 @@
     <dependency>
       <groupId>org.mybatis</groupId>
       <artifactId>mybatis</artifactId>
-      <version>3.4.5</version>
+      <version>3.5.6</version>
     </dependency>
 <!--      mybatis实现自身整合依赖,出错日志：这里只能用1.3.0以上版本，1.2.x版本整合spring5可能会报错-->
     <dependency>
